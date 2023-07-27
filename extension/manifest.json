@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "The name of your extension",
-  "description": "The description of your extension",
+  "name": "ChatGPT Insert",
+  "description": "Inserts prewritten prompts into ChatGPT textarea",
   "version": "1.0",
   "icons": {
     "16": "icons/icon.png",
